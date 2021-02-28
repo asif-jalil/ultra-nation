@@ -1,0 +1,30 @@
+.country-box {
+  box-sizing: border-box;
+  width: 290px;
+  border: 2px solid lightblue;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+
+button {
+  padding: 10px 25px;
+  background: lightseagreen;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  outline: none;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+
+.active {
+  border: 5px solid #61dafb;
+}
